@@ -1,0 +1,5 @@
+project: rnshah9/mayhem-mac
+target: mac
+
+cmds:
+  - cmd: /repo/mac-improved/mac @@
