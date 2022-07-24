@@ -2,4 +2,4 @@ project: mac
 target: mac
 
 cmds:
-  - cmd: /repo/mac-improved/mac @@
+  - cmd: /mac @@
